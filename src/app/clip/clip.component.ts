@@ -20,21 +20,21 @@ import { DatePipe } from '@angular/common';
 export class ClipComponent implements OnInit {
   @ViewChild('videoPlayer', { static: true })
   target?: ElementRef;
-  // player?: videojs.Player;
+  player?: videojs.Player;
   clip?: IClip;
 
   constructor(public route: ActivatedRoute) {}
 
   ngOnInit(): void {
-    // this.player = videojs(this.target?.nativeElement);
+    this.player = videojs(this.target?.nativeElement);
 
     this.route.data.subscribe((data) => {
       this.clip = data.clip as IClip;
 
-      // this.player?.src({
-      //   src: this.clip.url,
-      //   type: 'video/mp4',
-      // });
+      this.player?.src({
+        src: this.clip.url,
+        type: 'video/mp4',
+      });
     });
   }
 }
