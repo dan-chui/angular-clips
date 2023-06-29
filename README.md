@@ -5,14 +5,14 @@ Welcome to **Clips**: the ultimate platform for sharing your favorite mini video
 
 **Clips** is the #1 app to watch, clip, and share your favorite moments! With our world-class tools, we make it incredibly easy to share your videos. Get started today!
 
-## 🔧 Technologies
+## 🚀 Technologies
 
 - Angular.js
 - FFmpeg
 - Tailwind CSS
 - Firebase
 
-## 🪄 Features
+## 💫 Features
 
 - **Register**: Create an account to unlock all of the app's rich features.
 
