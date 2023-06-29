@@ -33,7 +33,7 @@ Welcome to **Clips**: the ultimate platform for sharing your favorite mini video
 Clone the repository:
 
 ```
-git clone [https://github.com/dan-chui/angular-clips.git]
+git clone https://github.com/dan-chui/angular-clips.git
 ```
 
 Then use the Windows Terminal: cd clips
