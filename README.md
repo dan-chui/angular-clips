@@ -8,6 +8,7 @@ Welcome to **Clips**: the ultimate platform for sharing your favorite mini video
 ## 🚀 Technologies
 
 - Angular.js
+- TypeScript
 - FFmpeg
 - Tailwind CSS
 - Firebase
