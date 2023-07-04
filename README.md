@@ -25,7 +25,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 - **Edit Videos**: Manage your videos (edit details, and delete as necessary).
 
-- **Authentication**: Authenticate users via Firebase.
+- **Storage and Authentication**: Store videos and authenticate users via Firebase.
 
 - **UI/UX**: Clean User interface and easy to use.
 
