@@ -1,27 +1,56 @@
 # Clips
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+## 💻 Project
+Welcome to **Clips**: the ultimate platform for sharing your favorite mini videos with the world!
 
-## Development server
+**Clips** is the #1 app to watch, clip, and share your favorite moments! With our world-class tools, we make it incredibly easy to share your videos. Get started today!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Please visit: https://clips-dan-chui.vercel.app/
 
-## Code scaffolding
+## 🚀 Technologies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular.js
+- TypeScript
+- FFmpeg
+- Tailwind CSS
+- Firebase
 
-## Build
+## 💫 Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Register**: Create an account to unlock all of the app's rich features.
 
-## Running unit tests
+- **Login**: Log in to access your profile and personal videos.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Upload Videos**: Upload mini .mp4 videos (5mb limit).
 
-## Running end-to-end tests
+- **Edit Videos**: Manage your videos (edit details, and delete as necessary).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Authentication**: Authenticate users via Firebase.
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🌎 Getting Started
+
+### Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/dan-chui/angular-clips.git
+```
+
+Then use the Windows Terminal: cd clips
+
+**Install dependencies:**
+
+```
+npm install
+```
+
+## Usage
+
+Start the server:
+
+```
+ng serve
+```
