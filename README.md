@@ -5,7 +5,7 @@ Welcome to **Clips**: the ultimate platform for sharing your favorite mini video
 
 **Clips** is the #1 app to watch, clip, and share your favorite moments! With our world-class tools, we make it incredibly easy to share your videos. Get started today!
 
-Please visit: https://clips-dan-chui.vercel.app/
+Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 ## 🚀 Technologies
 
