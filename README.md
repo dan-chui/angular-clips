@@ -27,6 +27,8 @@ Please visit: https://clips-dan-chui.vercel.app/
 
 - **Authentication**: Authenticate users via Firebase.
 
+- **UI/UX**: Clean User interface and easy to use.
+
 ---
 
 ## 🌎 Getting Started
