@@ -56,3 +56,6 @@ Start the server:
 ```
 ng serve
 ```
+## Demo
+
+![](/src/assets/screenshot.png)
