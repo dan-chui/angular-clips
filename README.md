@@ -14,6 +14,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 - FFmpeg
 - Tailwind CSS
 - Firebase
+- Hosted in Vercel
 
 ## 💫 Features
 
