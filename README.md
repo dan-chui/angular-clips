@@ -58,4 +58,4 @@ ng serve
 ```
 ## Demo
 
-![](/src/assets/screenshot.png)
+![](/src/assets/screenshot.webp)
