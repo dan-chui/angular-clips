@@ -13,7 +13,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 - TypeScript
 - FFmpeg
 - Tailwind CSS
-- Firebase
+- Firebase (Storage & Authentication)
 - Vercel
 
 ## 💫 Features
@@ -34,29 +34,20 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 ## 🌎 Getting Started
 
-### Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/dan-chui/angular-clips.git
-```
-
-Then use the Windows Terminal: cd clips
-
-**Install dependencies:**
-
-```
-npm install
-```
-
 ## Usage
 
-Start the server:
+Run **ng serve** for a development server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
 
 ```
 ng serve
 ```
+
+Run **ng build** to build the project. The build artifacts will be stored in the dist/ directory.
+
+```
+ng build
+```
+
 ## Demo
 
 Please visit (in a new tab): https://clips-dan-chui.vercel.app/
