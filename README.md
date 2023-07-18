@@ -12,6 +12,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 - Angular.js
 - TypeScript
 - FFmpeg
+- RxJS
 - Tailwind CSS
 - Firebase (Storage & Authentication)
 - Vercel
@@ -28,7 +29,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 - **Storage and Authentication**: Store videos and authenticate users via Firebase.
 
-- **UI/UX**: Clean User interface and easy to use.
+- **UI/UX**: Clean User interface stylized by Taliwind CSS.
 
 ---
 
