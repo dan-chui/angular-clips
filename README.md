@@ -29,7 +29,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 - **Storage and Authentication**: Store videos and authenticate users via Firebase.
 
-- **UI/UX**: Clean User interface stylized by Taliwind CSS.
+- **UI/UX**: Clean User interface stylized by Tailwind CSS.
 
 ---
 
