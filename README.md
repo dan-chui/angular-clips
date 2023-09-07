@@ -9,7 +9,7 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 ## 🚀 Technologies
 
-- Angular.js
+- Angular
 - TypeScript
 - FFmpeg
 - RxJS
