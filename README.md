@@ -21,13 +21,13 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 - **Register**: Create an account to unlock all of the app's rich features.
 
-- **Login**: Log in to access your profile and personal videos.
+- **Login**: Login to access your profile and personal videos.
 
-- **Upload Videos**: Upload mini .mp4 videos (5mb limit).
+- **Upload Videos**: Upload .mp4 videos (5mb limit).
 
 - **Edit Videos**: Manage your videos (edit details, and delete as necessary).
 
-- **Storage and Authentication**: Store videos and authenticate users via Firebase.
+- **Database and Authentication**: Store videos and authenticate users via Firebase.
 
 - **UI/UX**: Clean User interface stylized by Tailwind CSS.
 
