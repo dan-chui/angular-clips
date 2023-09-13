@@ -9,53 +9,48 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 
 ## 🚀 Technologies
 
-- Angular.js
+- Angular
 - TypeScript
 - FFmpeg
+- RxJS
 - Tailwind CSS
-- Firebase
+- Firebase (Storage & Authentication)
+- Vercel
 
 ## 💫 Features
 
 - **Register**: Create an account to unlock all of the app's rich features.
 
-- **Login**: Log in to access your profile and personal videos.
+- **Login**: Login to access your profile and personal videos.
 
-- **Upload Videos**: Upload mini .mp4 videos (5mb limit).
+- **Upload Videos**: Upload .mp4 videos (5mb limit).
 
 - **Edit Videos**: Manage your videos (edit details, and delete as necessary).
 
-- **Storage and Authentication**: Store videos and authenticate users via Firebase.
+- **Database and Authentication**: Store videos and authenticate users via Firebase.
 
-- **UI/UX**: Clean User interface and easy to use.
+- **UI/UX**: Clean User interface stylized by Tailwind CSS.
 
 ---
 
 ## 🌎 Getting Started
 
-### Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/dan-chui/angular-clips.git
-```
-
-Then use the Windows Terminal: cd clips
-
-**Install dependencies:**
-
-```
-npm install
-```
-
 ## Usage
 
-Start the server:
+Run **ng serve** for a development server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
 
 ```
 ng serve
 ```
+
+Run **ng build** to build the project. The build artifacts will be stored in the dist/ directory.
+
+```
+ng build
+```
+
 ## Demo
 
-![](/src/assets/screenshot.png)
+Please visit (in a new tab): https://clips-dan-chui.vercel.app/
+
+![](/src/assets/screenshot.webp)
