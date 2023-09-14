@@ -32,6 +32,13 @@ Please visit (in a new tab): https://clips-dan-chui.vercel.app/
 - **UI/UX**: Clean User interface stylized by Tailwind CSS.
 
 ---
+## Demo
+
+Please visit (in a new tab): https://clips-dan-chui.vercel.app/
+
+![](/src/assets/screenshot.webp)
+
+---
 
 ## 🌎 Getting Started
 
@@ -48,9 +55,3 @@ Run **ng build** to build the project. The build artifacts will be stored in the
 ```
 ng build
 ```
-
-## Demo
-
-Please visit (in a new tab): https://clips-dan-chui.vercel.app/
-
-![](/src/assets/screenshot.webp)
